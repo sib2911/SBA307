@@ -1,0 +1,23 @@
+.card-title {
+    text-align: center;
+    font-family: barriecito !important;
+    text-shadow: 4px 4px 4px #c98d0c
+}
+
+/* code for photo grid */
+.rows {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+  
+  /* Create two equal columns that sits next to each other */
+  .column {
+    flex: 50%;
+    padding: 0 4px;
+  }
+  
+  .column img {
+    margin-top: 8px;
+    vertical-align: middle;
+  }
