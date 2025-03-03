@@ -4,6 +4,18 @@
     text-shadow: 4px 4px 4px #c98d0c
 }
 
+.body {
+  background-image: url("https://media.istockphoto.com/id/840276320/vector/vector-pattern.jpg?s=612x612&w=0&k=20&c=xt2tL1oYiKRskfwqfv6Y3IrbGcvU83e-fVMGM8sJvYA=");
+}
+
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 5%;
+}
+
+/* page2 specific */
 /* code for photo grid */
 .rows {
     display: flex;
@@ -21,10 +33,6 @@
     margin-top: 8px;
     vertical-align: middle;
   }
+/*  */
 
-  .logo{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 5%;
-  }
+
