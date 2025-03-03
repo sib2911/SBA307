@@ -21,3 +21,10 @@
     margin-top: 8px;
     vertical-align: middle;
   }
+
+  .logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5%;
+  }
