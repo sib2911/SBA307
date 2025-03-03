@@ -8,6 +8,10 @@
   background-image: url("https://media.istockphoto.com/id/840276320/vector/vector-pattern.jpg?s=612x612&w=0&k=20&c=xt2tL1oYiKRskfwqfv6Y3IrbGcvU83e-fVMGM8sJvYA=");
 }
 
+.card-body {
+  background-color: rgb(177, 206, 131);
+}
+
 .logo{
   display: block;
   margin-left: auto;
